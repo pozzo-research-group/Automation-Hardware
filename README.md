@@ -10,7 +10,6 @@ We are creating a place to store and share files for custom hardware and labware
 3. Code needed for the addition of the labware into opentrons robot
 
 Recommended format is:
-</br>
 ```
 plate_name = '#####'
 if plate_name not in labware.list():
