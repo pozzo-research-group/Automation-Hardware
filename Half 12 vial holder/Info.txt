@@ -1,0 +1,25 @@
+### Purpose
+This holder can be used to hold twelve (12) 20 mL scintillation vials in a single
+slot of the OT2 pipetting robot
+
+### Use specifics
+In order to make a single holder, two of these .stl files will need to be printed,
+they then wedge together in a single slot holder and can hold 12 vials
+
+### Measurements per 1 print
+* Height:19.5 mm
+* Length:85.87 mm
+* Width: 63.85 mm
+* Wells: 6
+* Well Depth: 17.21 mm
+* Well Diameter: 27.85 mm
+
+### Well layout
+[[A1 A2 A3 A4],
+[B1 B2 B3 B4],
+[C1 C2 C3 C4],
+
+### Well Pipetting Order:
+[A1, B1, C1, A2, B2, C2, A3, B3, C3, A4, B4, C4]
+
+### Code for loading
