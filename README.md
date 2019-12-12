@@ -5,7 +5,7 @@ Pozzo Group OT2 Hardware
 We are creating a place to store and share files for custom hardware and labware created for the Opentrons Pippetting Robot. 
 
 ## Required Components
-1. A .stl or 3D print files (if the component can be 3D printed)n 
+1. A .stl or 3D print files (if the component can be 3D printed)
 2. Expected measurements of the final print
 3. Code needed for the addition of the labware into opentrons robot
 4. Any special instructions for printing, loading, or using the print
