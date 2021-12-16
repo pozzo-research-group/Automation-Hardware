@@ -1,4 +1,4 @@
-# CustomHardware for Automation
+# Custom Hardware for Automation
 Pozzo Group Custom Automation Hardware. Dimensions are consistent with SLAS standards (slas.org) 
 
 ## Purpose
