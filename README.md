@@ -1,8 +1,8 @@
-# OT2CustomHardware
-Pozzo Group OT2 Hardware 
+# CustomHardware for Automation
+Pozzo Group Custom Automation Hardware. Dimensions are consistent with SLAS standards (slas.org) 
 
 ## Purpose
-We are creating a place to store and share files for custom hardware and labware created for the Opentrons Pippetting Robot. 
+We are creating a place to store and share files for custom hardware and labware created for the laboratory automation including use with Opentrons Pippetting Robot and other tools. 
 
 ## Required Components
 1. A .stl or 3D print files (if the component can be 3D printed)
