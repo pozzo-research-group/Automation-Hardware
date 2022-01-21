@@ -31,3 +31,8 @@
 <img src="USAXS_SampleHolder_2.png" alt="Trulli" style="width:75%">
 <figcaption align = "center"><b>Cartridge holder has the same dimensions as a standard well plate and may therefore be used in liquid handling platforms, such as the OT-2 pictured here. </b></figcaption>
 </figure>
+
+## Misc.
+- Alternative file formats are available upon request. 
+- We have had issues with new batches of o-rings not fitting in the center piece despite ordering the same part number and using the same files and procedure for 3D printing the center piece. Future revision to the O-ring source or the size of the O-ring grooves is pending. 
+- Testing for leaks between wells and out of the cartridge itself is essential. We recommend filling wells with an alternating pattern of water and water with food dye added to help identify problematic areas.
