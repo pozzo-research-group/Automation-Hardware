@@ -19,11 +19,13 @@
   5. Load liquid samples manually or with a liquid-handling system. Suggested volume is 450 $\mu L$.
   6. Place second Kapton sheet and aluminum cover plate on top, and fasten using the same order of screws.
 
-<!-- ![USAXS_SampleHolder](USAXS_SampleHolder.png)
-
-![USAXS_SampleHolder_2](USAXS_SampleHolder_2.png) -->
 
 <figure>
-<img src="USAXS_SampleHolder.png" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+<img src="USAXS_SampleHolder.png" alt="Trulli" style="width:75%">
+<figcaption align = "center"><b>Left, step by step assembly instructions; right, cartridge holder seated in slot cartridge holder frame along with calibrant holder cartridge.</b></figcaption>
+</figure>
+
+<figure>
+<img src="USAXS_SampleHolder_2.png" alt="Trulli" style="width:75%">
+<figcaption align = "center"><b>Cartridge holder has the same dimensions as a standard well plate and may therefore be used in liquid handling platforms, such as the OT-2 pictured here. </b></figcaption>
 </figure>
