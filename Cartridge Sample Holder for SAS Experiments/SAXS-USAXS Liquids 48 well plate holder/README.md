@@ -21,14 +21,14 @@
 
 
 <figure>
-<img src="USAXS_SampleHolder.png" alt="Trulli" style="width:75%">
+<img src="USAXS_SampleHolder.png" alt="Trulli" style="width:100%">
 <figcaption align = "center"><b>Left, step by step assembly instructions; right, cartridge holder seated in slot cartridge holder frame along with calibrant holder cartridge.</b></figcaption>
 </figure>
 
 <br/><br/>
 
 <figure>
-<img src="USAXS_SampleHolder_2.png" alt="Trulli" style="width:100%">
+<img src="USAXS_SampleHolder_2.png" alt="Trulli" style="width:75%">
 <figcaption align = "center"><b>Cartridge holder has the same dimensions as a standard well plate and may therefore be used in liquid handling platforms, such as the OT-2 pictured here. </b></figcaption>
 </figure>
 
