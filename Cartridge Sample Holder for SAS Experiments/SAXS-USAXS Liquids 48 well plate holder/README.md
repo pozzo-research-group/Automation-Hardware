@@ -28,7 +28,7 @@
 <br/><br/>
 
 <figure>
-<img src="USAXS_SampleHolder_2.png" alt="Trulli" style="width:75%">
+<img src="USAXS_SampleHolder_2.png" alt="Trulli" style="width:100%">
 <figcaption align = "center"><b>Cartridge holder has the same dimensions as a standard well plate and may therefore be used in liquid handling platforms, such as the OT-2 pictured here. </b></figcaption>
 </figure>
 
