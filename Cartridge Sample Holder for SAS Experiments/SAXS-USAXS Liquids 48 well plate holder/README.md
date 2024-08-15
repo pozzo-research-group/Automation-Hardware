@@ -9,6 +9,7 @@
 | McMaster-Carr | Buna-N or EPDM (1.5 mm wide, 9 mm ID)        | 9262K126 or 1289N319           | O-rings                | 96   |
 | McMaster-Carr | Stainless steel M3 (8 mm Long, 0.5 mm Pitch) | 90666A104                      | Screws                 | 18   |
 | MiSUMi        | Brass Cadmium-Free (M3x0.5 mm)               | FB-305580                      | Threaded insert        | 9    |
+| McMaster-Carr | Moisture-Resistant Polyester Film            | 8567K102                       | Windows                | 1    |
 
 # Assembly Instructions
 
