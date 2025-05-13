@@ -21,7 +21,7 @@ For the USAXS 48-wellplate (1cm sample thickness)
   5. Load liquid samples manually or with a liquid-handling system. Suggested volume is 450 μL.
   6. Place second Kapton sheet and aluminum cover plate on top, and fasten using the same order of screws.
 
-For the SAXS_2mm_sample_thickness - 48 Well (2mm sample thickness)
+For the SAXS_2mm_sample_thickness - 48 Well (2mm sample thickness) or Sedimentation_wellplate
   1. Start with the backside of the plate (which will be facing the beam)
   2. Place the aluminum cover on the plate and fasten with screws 
   3. Flip the plate over and insert o-rings
