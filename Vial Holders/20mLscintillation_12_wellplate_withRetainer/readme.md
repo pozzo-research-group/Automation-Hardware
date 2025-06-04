@@ -1,0 +1,2 @@
+# 12 well 20mL vial holders
+                                                                                                                                                                                                                                                            Works with 20mL scintillation vials. Use M3 heat set inserts in the holes on the well plate, and long m3 screws through the lids, to retain the vials in the well plate while withdrawing from septa.   
