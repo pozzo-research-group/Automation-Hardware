@@ -1,4 +1,6 @@
 # Custom Hardware for Automation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5899658.svg)](https://doi.org/10.5281/zenodo.5899658)
 Pozzo Group Custom Automation Hardware. Dimensions are consistent with SLAS standards (slas.org) 
 
 ## Purpose
